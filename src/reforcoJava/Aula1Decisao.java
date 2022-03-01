@@ -27,7 +27,6 @@ public class Aula1Decisao {
 		System.out.println("5 -> Digite 5 para Preto;");
 		System.out.println("6 -> Digite 6 para Branco;");
 		
-		
 		corOpcao = leia.nextInt();
 		leia.close();
 		//concatenar valores com sinal +
